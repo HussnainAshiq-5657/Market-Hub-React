@@ -7,6 +7,7 @@ A modern, production-ready e-commerce application built with React and Redux. Ma
 ## ✨ Features
 
 ### 🛍️ Shopping Experience
+
 - **Product Catalog** - Browse products with beautiful card layouts
 - **Advanced Search** - Search products by name or description
 - **Smart Filters** - Filter by category, price range, and sort options
@@ -17,12 +18,14 @@ A modern, production-ready e-commerce application built with React and Redux. Ma
 - **Checkout Process** - Review order with price breakdown and complete purchase
 
 ### 👤 User Management
+
 - **User Authentication** - Secure login and registration
 - **Profile Management** - Update personal information
 - **Protected Routes** - Secure access to authenticated features
 - **Persistent Sessions** - Stay logged in across browser sessions
 
 ### 🎨 User Interface
+
 - **Dark/Light Mode** - Toggle between themes with smooth transitions
 - **Responsive Design** - Optimized for mobile, tablet, and desktop
 - **Modern UI/UX** - Beautiful gradients, animations, and transitions
@@ -33,34 +36,41 @@ A modern, production-ready e-commerce application built with React and Redux. Ma
 ## 🚀 Tech Stack
 
 ### Frontend Core
+
 - **React** - Modern UI library with latest features
 - **React Router DOM** - Client-side routing and navigation
 - **React DOM** - React rendering for web
 
 ### State Management
+
 - **Redux** - Predictable state container (Classic Redux)
 - **React-Redux** - Official React bindings for Redux
 - **Redux Thunk** - Async middleware for Redux
 - **Redux Persist** - Persist and rehydrate Redux store
 
 ### Form Management
+
 - **Formik** - Form state management and validation
 - **Yup** - Schema-based form validation
 
 ### Styling & UI
+
 - **Tailwind CSS** - Utility-first CSS framework
 - **Material-UI** - React component library
 - **@mui/icons-material** - Material Design icons
 - **@emotion/react & @emotion/styled** - CSS-in-JS library
 
 ### HTTP & API
+
 - **Axios** - Promise-based HTTP client
 - **Fake Store API** - RESTful API for products and users
 
 ### UI Enhancements
+
 - **React Toastify** - Beautiful toast notifications
 
 ### Development Tools
+
 - **React Scripts** - Create React App build scripts
 - **PostCSS** - CSS transformations
 - **Autoprefixer** - Automatic CSS vendor prefixing
@@ -148,6 +158,7 @@ src/
 ## 🎯 Redux Implementation
 
 ### Architecture
+
 - **Classic Redux Pattern** - Traditional Redux (not Redux Toolkit)
 - **Action Types** - Constants for action type strings
 - **Action Creators** - Functions that return action objects
@@ -158,6 +169,7 @@ src/
 - **DevTools** - Redux DevTools integration for debugging
 
 ### Store Organization
+
 - **Auth State** - User authentication and profile data
 - **Cart State** - Shopping cart items and totals
 - **Products State** - Product listings and details
@@ -166,6 +178,7 @@ src/
 ## 🚦 Getting Started
 
 ### Prerequisites
+
 - Node.js (v14 or higher)
 - npm or yarn
 
@@ -226,12 +239,14 @@ npm run build
 This project uses the [Fake Store API](https://fakestoreapi.com/) for backend operations.
 
 ### Test Credentials
+
 ```
 Username: johnd
 Password: m38rmF$
 ```
 
 ### API Endpoints Used
+
 - `GET /products` - Fetch all products
 - `GET /products/:id` - Get single product
 - `GET /products/categories` - Get all categories
@@ -275,15 +290,19 @@ xl:  1280px // Extra large devices
 ## 🛠️ Available Scripts
 
 ### `npm start`
+
 Runs the app in development mode at `http://localhost:3000`
 
 ### `npm test`
+
 Launches the test runner in interactive watch mode
 
 ### `npm run build`
+
 Builds the app for production to the `build` folder
 
 ### `npm run eject`
+
 Ejects from Create React App (one-way operation)
 
 ## 🎓 Skills Demonstrated
@@ -317,10 +336,10 @@ This project is licensed under the MIT License.
 
 ## 👤 Author
 
-**SiKaNDaR ZuBaIr MaYo**
-- GitHub: [@szm96dev](https://github.com/szm96dev)
-- LinkedIn: [Sikandar Zubair Mayo](https://www.linkedin.com/in/szm96dev/)
-- Portfolio: [Sikandar Portfolio](https://szm96dev.github.io/)
+**Muhammed Hussnain Ashiq**
+
+- GitHub: [@Hussnain Ashiq](https://github.com/HussnainAshiq-5657)
+- LinkedIn: [Muhammed Hussnain Ashiq](https://www.linkedin.com/in/hussnainnaz-dev)
 
 ## ⭐ Show Your Support
 
